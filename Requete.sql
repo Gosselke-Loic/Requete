@@ -1,7 +1,7 @@
 DROP TABLE Armes;
 DROP TABLE Competences;
-DROP HeroeCompetences;
-DROP Heros;
+DROP TABLE HeroeCompetences;
+DROP TABLE Heros;
 
 SELECT Nom FROM Heros
 	ORDER BY Nom ASC;
